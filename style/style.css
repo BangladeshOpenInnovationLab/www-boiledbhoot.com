@@ -2090,6 +2090,8 @@ button.navbar-toggler:hover {
     width: 100%;
     z-index: 2147483647;
     color: #fff;
+    /* background: url(image/sotmbd.png) no-repeat center center scroll;
+    background-image: url(image/sotmbd.png); */
     text-align: center;
     line-height: 40px;
 }
